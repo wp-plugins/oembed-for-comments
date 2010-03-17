@@ -1,7 +1,7 @@
 === oEmbed for Comments ===
 Contributors: r-a-y
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V864MRMV6DTKN
-Tags: buddypress, oembed, embed, comment, comments
+Tags: oembed, embed, comment, comments
 Requires at least: WP 2.9
 Tested up to: WP 2.9.2
 Stable tag: 0.6
