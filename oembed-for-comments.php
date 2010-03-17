@@ -107,7 +107,7 @@ function ray_oembed_comments($content) {
 ','',$replace); // fix Viddler line break in <object> tag
 
 				/* Save oEmbed cache to comment meta */
-				add_comment_meta(get_comment_ID(), $cachekey, $replace);
+				update_comment_meta(get_comment_ID(), $cachekey, $replace);
 			}
 
 		}
